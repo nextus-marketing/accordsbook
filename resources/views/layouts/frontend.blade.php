@@ -26,7 +26,7 @@
           <i class="ph ph-list"></i>
         </button>
         <a href="/">
-          <img src="/frontend/my-img/logo.png" alt="accords logo"  style="width:155px; height:90px;"/>
+          <img src="/frontend/my-img/footer-logo.png" alt="accords logo"  style="width:130px; height:80px;"/>
         </a>
       </div>
       <!-- Desktop Menu Start -->
