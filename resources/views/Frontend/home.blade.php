@@ -460,7 +460,7 @@
           <li class="flex gap-3 items-center"><i class="ph-fill ph-check-circle text-p1 text-2xl"></i>Automation setup</li>
           <li class="flex gap-3 items-center"><i class="ph-fill ph-check-circle text-p1 text-2xl"></i>Quarterly reviews</li>
         </ul>
-
+        </br>
         <a href="#0" class="py-4 w-full bg-s1 text-white rounded-full flex justify-center items-center gap-2 hover:bg-mainTextColor">
           Get Started <i class="ph ph-arrow-right"></i>
         </a>
@@ -515,7 +515,7 @@
           <li class="flex gap-3 items-center"><i class="ph-fill ph-check-circle text-p1 text-2xl"></i>Personalized tax help</li>
           <li class="flex gap-3 items-center"><i class="ph-fill ph-check-circle text-p1 text-2xl"></i>On-demand reports</li>
         </ul>
-     
+     </br>
         <a href="#0" class="py-4 w-full bg-s1 text-white rounded-full flex justify-center items-center gap-2 hover:bg-mainTextColor">
           Get Started <i class="ph ph-arrow-right"></i>
         </a>
