@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="/frontend/assets/css/my.css" />
 
     <title>@yield('title')</title>
-  <script defer src="index.js"></script><link href="/frontend/style.css" rel="stylesheet"></head>
+  <script defer src="/frontend/index.js"></script><link href="/frontend/style.css" rel="stylesheet"></head>
   <body>
     <!-- Header Section Start -->
     <header class="">
