@@ -33,7 +33,7 @@
           <h1
             class="uppercase text-base lg:text-xl font-semibold animate__animated animate__fadeInUp"
           >
-           Welcome to Accords Bookkkkkkkkkk
+           Welcome to Accords Book
 </h1>
           <div class="display-2">
           Reliable  
